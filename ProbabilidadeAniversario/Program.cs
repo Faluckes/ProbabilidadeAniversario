@@ -19,7 +19,7 @@
 
             Information inf = new Information(Convert.ToInt16(pessoas));
 
-            Console.WriteLine($"{inf.Aniversario}% de {pessoas} pessoas podem fazer aniversario no mesmo dia. \n \n \n");
+            Console.WriteLine($"Probabilidade de {inf.Aniversario}% \n \n \n");
             Console.WriteLine("Obrigado por testar meu Projeto! \n \n");
             Console.WriteLine("Feito por Faluckes, fevereiro de 2022 \nhttps://github.com/Faluckes\n \n Aperte ENTER para fechar o programa.");
 
