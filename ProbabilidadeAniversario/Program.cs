@@ -10,7 +10,7 @@
 
 
             Console.WriteLine("\n");
-            Console.Write("Coleque uma quantidade de pessoas que vai ter dentro de um salão: ");
+            Console.Write("Coloque uma quantidade de pessoas que vai ter dentro de um salão: ");
             string pessoas = Console.ReadLine();
             Console.WriteLine($"\nAdicionado {pessoas} pessoas dentro do salão . . .");
             Console.WriteLine($"\nQual a chance de {pessoas} pessoas fazerem aniversario no mesmo dia? Veremos a seguir!");
